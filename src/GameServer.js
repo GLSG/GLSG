@@ -85,9 +85,9 @@ function GameServer() {
         serverChat: 1,              // Set to 1 to allow chat; 0 to disable chat.
         serverChatAscii: 1,         // Set to 1 to disable non-ANSI letters in the chat (english only mode)
         
-        serverName: 'MultiOgar #1', // Server name
-        serverWelcome1: 'Welcome to MultiOgar server!',      // First server welcome message
-        serverWelcome2: '',         // Second server welcome message (for info, etc)
+        serverName: 'GLSG Private Server', // Server name
+        serverWelcome1: 'Welcome To GLSG Private Server!',      // First server welcome message
+        serverWelcome2: 'Visit www.GLSGBots.com for Bots!',         // Second server welcome message (for info, etc)
         
         borderWidth: 14142,         // Map border size (Vanilla value: 14142)
         borderHeight: 14142,        // Map border size (Vanilla value: 14142)
